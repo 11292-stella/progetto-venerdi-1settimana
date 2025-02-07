@@ -215,6 +215,20 @@ footer {
     text-align: center;
     background-color: #25a2c3;
 }
+
+footer h2 {
+    font-family: "Montserrat", serif (bold);
+     font-size: 2em;
+     color: #ffffff;
+     line-height: 1.65;
+}
+
+footer p {
+    font-family: "Open Sans", serif;
+    font-size: 1.2rem ;
+    line-height: 1.65;
+    color: #ffffff;
+}
     
 
 
