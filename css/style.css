@@ -1,0 +1,221 @@
+/* Your styles here */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+
+header {
+    
+    background-image: url(../img/banner.jpg);
+    text-align: center;
+    
+    
+    color: rgb(19, 18, 18);
+    box-shadow: 0 3px 3px #444;
+    margin-bottom: 1.5em;
+    padding: 2em 1.5em;
+    width: 500px;
+    margin: auto;
+    
+}
+
+h1 span {
+     font-family: "Montserrat", serif (bold);
+     font-size: 2em;
+     color: #25a2c3;
+     line-height: 1.65;
+
+    
+}
+
+nav span {
+    font-family: "Open Sans", serif;
+    font-size: 1.2rem ;
+    
+}
+
+#logo img {
+    width: 90%;
+    
+    
+}
+
+
+
+
+
+#conteiner { 
+    
+    
+    line-height: 1.5;
+    padding: 15px;
+    background-image: url('../img/sfondo.png');
+    background-position: center center;
+    width: 500px;
+    margin: auto;
+    
+    
+}
+
+main {
+    text-align: center;
+    
+    
+    color: rgb(19, 18, 18);
+    box-shadow: 0 3px 3px #444;
+    margin-bottom: 1.5em;
+    padding: 2em 1.5em;
+    width: 500px;
+    margin: auto;
+    
+}
+#notebook img {
+    border-radius: 50%;
+}
+#primo-p h2 {
+    font-family: "Montserrat", serif (bold);
+     font-size: 2em;
+     color: #25a2c3;
+     line-height: 1.65;
+}
+
+#primo-p p {
+    font-family: "Open Sans", serif;
+    font-size: 1.2rem ;
+    line-height: 1.65;
+}
+#red-zone {
+    text-align: center;
+    
+    
+    color: rgb(19, 18, 18);
+    box-shadow: 0 3px 3px #444;
+    margin-bottom: 1.5em;
+    padding: 2em 1.5em;
+    width: 500px;
+    margin: auto;
+    background-color: rgb(251, 9, 9);
+    
+}
+#red-zone h2 {
+    font-family: "Montserrat", serif (bold);
+     font-size: 2em;
+     color: #ffffff;
+     line-height: 1.65;
+}
+#red-zone p {
+    font-family: "Open Sans", serif;
+    font-size: 1.2rem ;
+    line-height: 1.65;
+    color: #ffffff;
+    font-style: italic;
+}
+#red-zone article {
+    font-family: "Open Sans", serif;
+    
+    line-height: 1.5;
+    color: #ffffff;
+    
+}
+
+#foto1 {
+    text-align: center;
+    
+    
+    color: rgb(19, 18, 18);
+    box-shadow: 0 3px 3px #444;
+    margin-bottom: 1.5em;
+    padding: 2em 1.5em;
+    width: 500px;
+    margin: auto;
+    
+}
+
+#foto1 img {
+    width: 400px;
+}
+    
+#interno h2 {
+   
+    font-family: "Montserrat", serif (bold);
+     font-size: 2em;
+     color: #25a2c3;
+     line-height: 1.65;
+}
+
+#interno p {
+    font-family: "Open Sans", serif;
+    font-size: 1.2rem ;
+    line-height: 1.65;
+}
+
+#foto2 {
+    color: rgb(19, 18, 18);
+    box-shadow: 0 3px 3px #444;
+    margin-bottom: 1.5em;
+    padding: 2em 1.5em;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+#foto2 img {
+    width: 400px;
+}
+
+#foto2 h2 {
+    font-family: "Montserrat", serif (bold);
+     font-size: 2em;
+     color: #25a2c3;
+     line-height: 1.65;
+}
+
+#foto2 p {
+    font-family: "Open Sans", serif;
+    font-size: 1.2rem ;
+    line-height: 1.65;
+}
+
+#foto3 {
+    color: rgb(19, 18, 18);
+    box-shadow: 0 3px 3px #444;
+    margin-bottom: 1.5em;
+    padding: 2em 1.5em;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+#foto3 img {
+    width: 400px;
+}
+
+#foto3 h2 {
+    font-family: "Montserrat", serif (bold);
+     font-size: 2em;
+     color: #25a2c3;
+     line-height: 1.65;
+}
+
+#foto3 p {
+    font-family: "Open Sans", serif;
+    font-size: 1.2rem ;
+    line-height: 1.65;
+}
+
+footer {
+    color: rgb(19, 18, 18);
+    box-shadow: 0 3px 3px #444;
+    margin-bottom: 1.5em;
+    padding: 2em 1.5em;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    background-color: #25a2c3;
+}
+    
+
+
+
