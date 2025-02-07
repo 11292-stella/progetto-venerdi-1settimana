@@ -10,22 +10,37 @@ header {
     
     background-image: url(../img/banner.jpg);
     text-align: center;
-    
-    
+    background-repeat: no-repeat;
+    background-position: 35%;
     color: rgb(19, 18, 18);
-    box-shadow: 0 3px 3px #444;
-    margin-bottom: 1.5em;
+    
+    
     padding: 2em 1.5em;
     width: 500px;
     margin: auto;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
     
 }
+button {
+    background-color: #f91010;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 1.65;
+    padding: 10px 40px;
+    border-radius: 14px;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
 
 h1 span {
      font-family: "Montserrat", serif (bold);
      font-size: 2em;
      color: #25a2c3;
      line-height: 1.65;
+     
 
     
 }
@@ -63,12 +78,12 @@ main {
     text-align: center;
     
     
-    color: rgb(19, 18, 18);
-    box-shadow: 0 3px 3px #444;
-    margin-bottom: 1.5em;
+   
     padding: 2em 1.5em;
     width: 500px;
     margin: auto;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
     
 }
 #notebook img {
@@ -90,13 +105,13 @@ main {
     text-align: center;
     
     
-    color: rgb(19, 18, 18);
-    box-shadow: 0 3px 3px #444;
-    margin-bottom: 1.5em;
+    
     padding: 2em 1.5em;
     width: 500px;
     margin: auto;
     background-color: rgb(251, 9, 9);
+    border-left: 1px solid black;
+    border-right: 1px solid black;
     
 }
 #red-zone h2 {
@@ -124,12 +139,12 @@ main {
     text-align: center;
     
     
-    color: rgb(19, 18, 18);
-    box-shadow: 0 3px 3px #444;
-    margin-bottom: 1.5em;
+    
     padding: 2em 1.5em;
     width: 500px;
     margin: auto;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
     
 }
 
@@ -152,13 +167,13 @@ main {
 }
 
 #foto2 {
-    color: rgb(19, 18, 18);
-    box-shadow: 0 3px 3px #444;
-    margin-bottom: 1.5em;
+    
     padding: 2em 1.5em;
     width: 500px;
     margin: auto;
     text-align: center;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
 }
 
 #foto2 img {
@@ -179,13 +194,13 @@ main {
 }
 
 #foto3 {
-    color: rgb(19, 18, 18);
-    box-shadow: 0 3px 3px #444;
-    margin-bottom: 1.5em;
+    
     padding: 2em 1.5em;
     width: 500px;
     margin: auto;
     text-align: center;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
 }
 
 #foto3 img {
@@ -206,14 +221,14 @@ main {
 }
 
 footer {
-    color: rgb(19, 18, 18);
-    box-shadow: 0 3px 3px #444;
-    margin-bottom: 1.5em;
+    
     padding: 2em 1.5em;
     width: 500px;
     margin: auto;
     text-align: center;
     background-color: #25a2c3;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
 }
 
 footer h2 {
@@ -228,6 +243,10 @@ footer p {
     font-size: 1.2rem ;
     line-height: 1.65;
     color: #ffffff;
+}
+
+.linea {
+    text-decoration: underline;
 }
     
 
